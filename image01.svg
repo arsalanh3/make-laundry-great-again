@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 21 31" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-258.5 -452.86)">
+  <path d="m259 458.36v20c0 1 10 6 10 5v-20c0-1-10-6-10-5z" fill="#edd400" fill-rule="evenodd"/>
+  <path d="m269 463.36c0-1 10-6 10-5v20c0 1-10 6-10 5v-20z" fill="#fce94f" fill-rule="evenodd"/>
+  <path d="m259 458.36c0-1 9-5 10-5s10 4 10 5-9 5-10 5-10-4-10-5z" fill="#c4a000" fill-rule="evenodd"/>
+  <path transform="matrix(.76217 0 -.10311 1.0122 232.97 200.75)" d="m95 267.36a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" fill="#c4a000" stroke="#000" stroke-width="1.1385"/>
+  <path transform="matrix(.62258 0 -.084228 .9024 240.02 229.78)" d="m95 267.36a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" fill="#c4a000" stroke="#000" stroke-width="1.1385"/>
+  <path transform="matrix(.8532 0 0 1.0221 206.73 194.68)" d="m78 263.86a1.5 1.5 0 1 1 -3 0 1.5 1.5 0 1 1 3 0z" fill="#d3d7cf" stroke="#000" stroke-width=".53543"/>
+  <path transform="matrix(.51584 0 0 .61792 235.15 300.34)" d="m78 263.86a1.5 1.5 0 1 1 -3 0 1.5 1.5 0 1 1 3 0z" fill="#d3d7cf" stroke="#000" stroke-width=".88562"/>
+  <path transform="matrix(.51584 0 0 .61792 237.26 299.03)" d="m78 263.86a1.5 1.5 0 1 1 -3 0 1.5 1.5 0 1 1 3 0z" fill="#d3d7cf" stroke="#000" stroke-width=".88562"/>
+  <path d="m259 458.36v20c0 1 9 5 10 5s10-4 10-5v-20c0-1-9-5-10-5s-10 4-10 5z" fill="none" stroke="#000"/>
+ </g>
+</svg>
